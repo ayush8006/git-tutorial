@@ -70,6 +70,12 @@ add a new link to the remote repo and gives a name to it
 
 18.`git remote rename <old name><new name>` -->: this command renames the remote Connection
 
-19. `git add <file1>,<file2>,<file3>`-->adding multiple files.
+19. `git add <file1>,<file2>,<file3>`-->adding multiple files into the staging area.
 
-`git add .`
+20. `git add .`-->adding all files to staging area.
+
+21.`git pull <remote name><branch name>`:-->download latest changes from the branch of 
+
+mentioned remote in your local repo
+
+
