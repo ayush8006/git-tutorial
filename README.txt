@@ -45,4 +45,8 @@ we can restore it or you can say restore last clean version of the file.
 11. `git restore --staged <file>`  --> it remove file changes from staging area to working area.this only 
 works if changes are in your staging area.
 
-12. `
+12. `Difference between git rm and git restore` -->
+
+ans: if you want to move the whole file back to the untracked state,then we do git rm, otherwise if we just want the
+
+changes to be moved in working area or staging area then we go git restore .
