@@ -85,6 +85,9 @@ mentioned remote in your local repo
     -git pull
     -git push
 
+merge conficts can occur if multiple people try to make changes to the same file,and
+then collaborate
+
 
 
 
