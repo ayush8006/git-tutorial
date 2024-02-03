@@ -79,3 +79,4 @@ add a new link to the remote repo and gives a name to it
 mentioned remote in your local repo
 
 
+`merge conflicts` are very common while merging
