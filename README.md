@@ -78,4 +78,13 @@ add a new link to the remote repo and gives a name to it
 
 mentioned remote in your local repo
 
+#Recommended practice to do
+    -make changes
+    -git add<file>
+    -git commit
+    -git pull
+    -git push
+
+
+
 
