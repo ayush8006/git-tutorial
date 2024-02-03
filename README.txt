@@ -55,4 +55,19 @@ changes to be moved in working area or staging area then we go git restore .
 
 14. ``->if we want to avoid a text editor vim/nano while `git commit` we can use `git commit -m <commit msg>`
 
-15. 
+15. `git remote ` -->list down all remote connectin names
+
+`Remote Connection` -->it helps you to link two git repos and downloading changes from 
+
+each otherwise
+
+
+16.`git remote add <name of remote> <link of the remote>` -->: this command helps us to 
+
+add a new link to the remote repo and gives a name to it
+
+17. `git remote rm <name of repo>` --> this command deletes remote cnnection 
+
+18.`git remote rename <old name><new name>` -->: this command renames the remote Connection
+
+19. 
