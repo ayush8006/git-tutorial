@@ -42,4 +42,7 @@ if we did some dirty piece of code and now no more want it .Instead of deleting 
 
 we can restore it or you can say restore last clean version of the file.
 
-11. `git restore --staged <file>`  --> restoring 
+11. `git restore --staged <file>`  --> it remove file changes from staging area to working area.this only 
+works if changes are in your staging area.
+
+12. `
