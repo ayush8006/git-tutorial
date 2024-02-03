@@ -91,3 +91,4 @@ then collaborate
 
 
 
+`merge conflicts` are very common while merging
